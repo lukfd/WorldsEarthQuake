@@ -1,4 +1,4 @@
-# James Klaesges, Luca Comba, AbdulMalik Alkhami, CISC 131 Week 13 Lab - Problem 1
+# Luca Comba
 
 import math
 import turtle
